@@ -1,0 +1,9 @@
+h1{
+    color:red;
+}
+
+@media(min-width: 576px){
+    h1{
+        color: blue;
+    }
+}
